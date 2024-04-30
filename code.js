@@ -5,12 +5,12 @@
 
 
 /*
-num1 is EQUAL TO 10 by DIVIDING 100 by 10
+num1 is EQUAL TO 10 by ADDING 1 AND 9
 num2 is EQUAL T0 40 by MULTIPLYING num2 by 4
 num3 is EQUAL TO 39 by SUBTRACTING the num1 DIVIDED num1
 */
 
-const num1 = 100 / 10
+const num1 = 1 + 9
 const num2 = num1 * 4
 const num3 = num2 - (num1 / num1)
 
